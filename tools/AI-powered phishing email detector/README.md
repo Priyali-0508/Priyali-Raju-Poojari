@@ -55,7 +55,9 @@ python index.py
  1. Train model
     ![train model](https://github.com/user-attachments/assets/f14d6fd3-897b-4ab4-a888-0b4b1f99110a)
 
-2. phishing_detector  CLI
+2. phishing_detector
+   
+   CLI
 ![phising dtector(1)](https://github.com/user-attachments/assets/9898b6e8-ba6a-4848-8322-9b4101d4f281)
 ![phising dtector(2)](https://github.com/user-attachments/assets/1affe4e5-466c-49a9-9bf5-476af2fd5428)
 
