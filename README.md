@@ -33,14 +33,46 @@ Phishing attacks are increasingly sophisticated, posing major risks to both indi
 ## 📁 Folder Organization
 
 ```
-/Priyali_Sharma/
-├── Tools/
-│   └── Phishing_Email_Detector/
-├── Research/
-│   └── AI_Powered_Phishing_Detector/
+Priyali_Raje_Project/
+│
+├── CTF_Tasks/
+│   ├── OverTheWire/
+│   │   └── [All files]
+│   └── TryHackMe/
+│       ├── priyali-poojari_PCI_DSS_Report.pdf
+│       └── priyali-poojari_ovsd_teaming.pdf
+│
 ├── Projects/
-│   └── AI_Powered_Phishing_Detector/
-└── README.md  ← (This file)
+│   └── AI-Powered Phishing Email Detector/
+│       ├── Documentation/
+│       │   ├── Summary.md
+│       │   └── presentation.pptx
+│       ├── Code/
+│       │   ├── index.py
+│       │   ├── phishing_detector.py
+│       │   └── train_model.py
+│       └── Market_Study/
+│           └── Market_Analysis.pdf
+│
+├── Research/
+│   └── AI-Powered Phishing Email Detector/
+│       └── research_paper.pdf
+│
+├── Tools/
+│   └── AI-Powered Phishing Email Detector/
+│       ├── Source_Code/
+│       │   ├── model/
+│       │   │   └── phishing_model.pkl
+│       │   ├── index.py
+│       │   ├── phishing_detector.py
+│       │   └── train_model.py
+│       ├── README.md
+│       ├── requirements.txt
+│       └── setup.py
+│
+├── README.md
+└── LICENSE
+
 ```
 
 ---
@@ -49,5 +81,5 @@ Phishing attacks are increasingly sophisticated, posing major risks to both indi
 
 Thank you to the Digisuraksha Parhari Foundation and Infinisec Technologies for this incredible opportunity to explore the intersection of AI and cybersecurity.
 
-📧 Email: your.email@example.com  
 🔗 GitHub: [https://github.com/Priyali-0508](https://github.com/Priyali-0508)
+
