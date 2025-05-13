@@ -52,8 +52,9 @@ Priyali_Raje_Project/
 │       │   ├── phishing_detector.py
 │       │   └── train_model.py
 │       └── Market_Study/
-│           └── Market_Analysis.pdf
-│
+│       |    └── Market_Analysis.pdf
+│       |
+|       └── Demo_Video
 ├── Research/
 │   └── AI-Powered Phishing Email Detector/
 │       └── research_paper.pdf
